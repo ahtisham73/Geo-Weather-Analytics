@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)[![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange)](https://plotly.com/)[![OPC UA](https://img.shields.io/badge/OPC%20UA-M2M%20Automation-green)](https://opcfoundation.org/)[![Dash](https://img.shields.io/badge/Dash-Dashboard-purple)](https://dash.plotly.com/)[![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey)](https://github.com/)[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-![Weather Dashboard](/docs/Dashboard.png)
+![Weather Dashboard](/docs/Dashboard.jpg)
 
 ## 🚀 Overview
 Geo Weather Analytics is a real-time IoT-driven weather monitoring platform using OPC UA (M2M industrial automation protocol) and Python, delivering dynamic weather insights with geo-location settings.
