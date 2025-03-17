@@ -85,6 +85,7 @@ Deploy on cloud platforms (e.g., AWS).
 ├── 📜 README.md # Project Overview
 ├── 📂 src # Source Code
 │   ├── Geo Weather Analytics.ipynb
+|   ├── Requirements.txt
 ├── 📂 docs # Documentation
 │   ├── Weather_Dashboard.png
 ├── LICENSE # License file
